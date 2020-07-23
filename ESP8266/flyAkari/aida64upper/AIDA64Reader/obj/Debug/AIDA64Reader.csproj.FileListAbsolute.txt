@@ -1,0 +1,13 @@
+C:\Users\Akari\source\repos\AIDA64Reader\AIDA64Reader\bin\Debug\AIDA64Reader.exe.config
+C:\Users\Akari\source\repos\AIDA64Reader\AIDA64Reader\bin\Debug\AIDA64Reader.exe
+C:\Users\Akari\source\repos\AIDA64Reader\AIDA64Reader\bin\Debug\AIDA64Reader.pdb
+C:\Users\Akari\source\repos\AIDA64Reader\AIDA64Reader\obj\Debug\AIDA64Reader.csprojAssemblyReference.cache
+C:\Users\Akari\source\repos\AIDA64Reader\AIDA64Reader\obj\Debug\AIDA64Reader.exe
+C:\Users\Akari\source\repos\AIDA64Reader\AIDA64Reader\obj\Debug\AIDA64Reader.pdb
+C:\myArduino\AIDA64Reader-flyAkari\VS2019\AIDA64Reader\bin\Debug\AIDA64Reader.exe.config
+C:\myArduino\AIDA64Reader-flyAkari\VS2019\AIDA64Reader\bin\Debug\AIDA64Reader.exe
+C:\myArduino\AIDA64Reader-flyAkari\VS2019\AIDA64Reader\bin\Debug\AIDA64Reader.pdb
+C:\myArduino\AIDA64Reader-flyAkari\VS2019\AIDA64Reader\obj\Debug\AIDA64Reader.csprojAssemblyReference.cache
+C:\myArduino\AIDA64Reader-flyAkari\VS2019\AIDA64Reader\obj\Debug\AIDA64Reader.csproj.CoreCompileInputs.cache
+C:\myArduino\AIDA64Reader-flyAkari\VS2019\AIDA64Reader\obj\Debug\AIDA64Reader.exe
+C:\myArduino\AIDA64Reader-flyAkari\VS2019\AIDA64Reader\obj\Debug\AIDA64Reader.pdb
